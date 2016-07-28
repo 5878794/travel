@@ -298,11 +298,11 @@ a:hover{
 
 
 .radius{
-    border-radius: 5pt;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    -o-border-radius:5px;
-    -ms-border-radius:5px;
+    border-radius: 0.1rem;
+    -webkit-border-radius: 0.1rem;
+    -moz-border-radius: 0.1rem;
+    -o-border-radius:0.1rem;
+    -ms-border-radius:0.1rem;
 }
 
 
